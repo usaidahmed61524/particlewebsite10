@@ -1,38 +1,22 @@
-.App {
-  text-align: center;
+.gear.styler-trigger {
+  display: none !important;
+}
+.color-styler-wrapper {
+  display: none !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.bg-hero {
+  background-image: url("./images/hero-dark.jpg");
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.bg-card1 {
+  background-image: url("./images//portfolio-thumbnail-01-dark.jpg");
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.bg-card2 {
+  background-image: url("./images//portfolio-thumbnail-02-dark.jpg");
 }
-
-.App-link {
-  color: #61dafb;
+.bg-card3 {
+  background-image: url("./images//portfolio-thumbnail-03-dark.jpg");
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.bg-card4 {
+  background-image: url("./images//portfolio-thumbnail-04-dark.jpg");
 }
