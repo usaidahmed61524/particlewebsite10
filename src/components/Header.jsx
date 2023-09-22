@@ -328,7 +328,7 @@ const Header = () => {
           </li>
 
           <li className="nav-item">
-            <a className="nav-link hvr-underline-from-center" href="#">
+            <a className="nav-link hvr-underline-from-center" href="#contact-us">
               Contact Us
             </a>
           </li>

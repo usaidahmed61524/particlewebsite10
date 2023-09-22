@@ -3,6 +3,13 @@ import Header from "./components/Header";
 import HeroSection from "./components/HeroSection";
 import Portfolio from "./components/Portfolio";
 import Section2 from "./components/Section2";
+import About from "./components/About";
+import Section6 from "./components/Section6";
+import Patience from "./components/Patience";
+import GetParticle from "./components/GetParticle";
+import Skills from "./components/Skills";
+import Connect from "./components/Connect";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -12,6 +19,13 @@ function App() {
         <HeroSection />
         <Section2 />
         <Portfolio />
+        <About />
+        <Section6 />
+        <Patience />
+        <GetParticle />
+        <Skills />
+        <Connect />
+        <Footer />
       </div>
     </>
   );

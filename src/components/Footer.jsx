@@ -4,21 +4,18 @@ const Footer = () => {
   return (
     <>
       <footer>
-        <div class="container">
-          <div class="row">
-            <div class="col-12 text-center my-2 pt-5 pb-4">
+        <div className="container">
+          <div className="row">
+            <div className="col-12 text-center my-2 pt-5 pb-4">
               <p>
-                Copyright © 2021 -{" "}
-                <a href="http://www.skilltechwebdesign.com/" target="_blank">
-                  SkilltechWebDesign.com
-                </a>
+                Copyright © 2021 - <a href="#">UD Designer</a>
               </p>
             </div>
           </div>
         </div>
-        <div class="pa-back-to-top-wrap">
-          <a class="pa-back-to-top" href="#top">
-            <span class="pa-back-to-top"></span>
+        <div className="pa-back-to-top-wrap">
+          <a className="pa-back-to-top" href="#top">
+            <span className="pa-back-to-top"></span>
           </a>
         </div>
       </footer>

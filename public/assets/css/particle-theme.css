@@ -1452,7 +1452,7 @@ a.pa-button-primary {
 }
 
 a.pa-button-primary:hover {
-	background-color: #444B54;
+	background-color: #7100b8;
 }
 
 a.pa-button-secondary {
@@ -1630,7 +1630,7 @@ section.pa-standard-section.pa-bright { /* normal bright section */
 
 section.pa-standard-section.pa-dark, 
 body.pa-dark section.pa-standard-section { /* normal dark section */
-	background-color: #101C26;
+	background-color: #000000;
 }
 
 body.pa-dark section.pa-standard-section.pa-dark { /* dark section for dark home */
@@ -1878,7 +1878,7 @@ video.pa-video {
 }
 
 .pa-stripe-heading {
-	background-color: #0C161E;
+	background-color: black;
 	padding: 20px;
 }
 
@@ -1888,7 +1888,7 @@ body.pa-dark .pa-stripe-heading {
 
 .pa-stripe-subheading {
 	border-top: 1px solid #525B66;
-	background-color: #2C363F;
+	background-color: #0f1139;
 	padding: 10px 15px 1px;
 }
 
@@ -2197,7 +2197,7 @@ img.pa-services-image {
 }
 
 .pa-dark .pa-skills {
-	background-color: #0C171F;
+	background-color: #000000;
 }
 
 .pa-skills .pa-h1-v3 {
@@ -2333,7 +2333,7 @@ img.pa-services-image {
 
 footer {
 	position: relative;
-	background-color: #0C161E;
+	background-color: #000000;
 }
 
 footer p {

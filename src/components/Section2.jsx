@@ -7,7 +7,7 @@ const Section2 = () => {
         className="pa-cta-v1"
         data-parallax="scroll"
         data-speed="0.2"
-        data-image-src="./assets/images/image-section.jpg"
+        data-image-src="./assets/images/service-item.jpg"
       >
         <div className="container">
           <h1 className="pa-h1-v1 pa-bright fadeInLeftDelay03Duration10">
@@ -19,8 +19,7 @@ const Section2 = () => {
           <div className="mt-4"></div>
           <a
             className="pa-button-primary pa-hvr-sweep-to-right fadeInRightDelay11Duration10"
-            href="https://themeforest.net/item/particle-modern-tech-startup-html-template/20078383?ref=Skilltech"
-            target="_blank"
+           href="#"
           >
             Get it Now
           </a>
