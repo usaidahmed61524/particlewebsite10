@@ -49,3 +49,54 @@ a.nav-link.hvr-underline-from-center.nav-item-link {
 .nav-custom-content {
   background-color: black;
 }
+
+/* login btn  */
+
+.nav-link.hvr-underline-from-center {
+  display: flex;
+}
+/* form to login */
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+  display: flex !important;
+  width: 20rem !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+input#input-with-icon-adornment {
+  background: transparent;
+  border: none;
+  font-size: 1.1rem;
+  color: #49007a;
+}
+.MuiInputBase-root.MuiInput-root.MuiInput-underline.MuiInputBase-colorPrimary.MuiInputBase-formControl.MuiInputBase-adornedStart.css-v4u5dn-MuiInputBase-root-MuiInput-root {
+  margin: 1rem 0px;
+}
+
+/* For Firefox */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* For Chrome, Safari, and Opera */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* For Internet Explorer and Edge */
+input[type="number"]::-ms-clear {
+  display: none;
+}
+
+form.MuiBox-root.css-0 {
+  margin: auto;
+  text-align: center;
+}
+.errorMessage {
+  color: rgb(147, 0, 0);
+  height: 3rem !important;
+  padding: 0px 20px !important;
+}
